@@ -24,7 +24,7 @@ Hi, my name is SOL PARK, Back-end Developer💪 🌱
 
 <br/>
 ![SOL-hub's github stats](https://github-readme-stats.vercel.app/api?username=SOL-hub&show_icons=true)
-[![SOL-hub's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SOL-hub&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/SOL-hub)
+[![SOL-hub's githubstats(https://githubreadmestats.vercel.app/api/toplangs/username=SOLhub&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/SOL-hub)
 
 <br/>
 <div align=center>
