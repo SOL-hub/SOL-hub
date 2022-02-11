@@ -22,11 +22,11 @@ Hi, my name is SOL PARK, Back-end Developer💪 🌱
 <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
 <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"> </div>
 
-<br/><br/>
+<br/>
 ![SOL-hub's github stats](https://github-readme-stats.vercel.app/api?username=SOL-hub&show_icons=true)
 [![SOL-hub's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SOL-hub&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/SOL-hub)
 
-<br/><br/>
+<br/>
 <div align=center>
 💚 About SOL click this👉<img src="https://img.shields.io/badge/Portfolio-F24E1E?style=for-the-badge&logo=SOL&logoColor=white">
     
