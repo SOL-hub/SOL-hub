@@ -1,6 +1,6 @@
 <div align=center>
 
-Hi, my name is SOL PARK, Back-end Developer💪 🌱
+Hi, my name is SOL PARK, Back-end Developer💪
 --------------------------------------------
 ✨The skill I experienced<br/>
     <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
@@ -24,6 +24,7 @@ Hi, my name is SOL PARK, Back-end Developer💪 🌱
 ![SOL-hub's github stats](https://github-readme-stats.vercel.app/api?username=SOL-hub&show_icons=true)
 [![SOL-hub's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SOL-hub&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/SOL-hub)
 <br/>
-<div align=center>
-💚 About SOL click this👉<img src="https://img.shields.io/badge/Portfolio-F24E1E?style=for-the-badge&logo=SOL&logoColor=white">![port](https://user-images.githubusercontent.com/63778599/153624271-01a69f80-c575-4fe3-bd83-595b1bf9aa99.png)
+<div align=left>
+💚 About SOL click this👉<img src="https://img.shields.io/badge/Portfolio-F24E1E?style=for-the-badge&logo=SOL&logoColor=white">
+    ![port](https://user-images.githubusercontent.com/63778599/153624271-01a69f80-c575-4fe3-bd83-595b1bf9aa99.png)
  </div>
