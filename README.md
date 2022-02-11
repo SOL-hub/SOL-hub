@@ -26,4 +26,5 @@ Hi, my name is SOL PARK, Back-end Developer💪
 <br/>
 <div align=center>
 💚 About SOL click this👉<img src="https://img.shields.io/badge/Portfolio-F24E1E?style=for-the-badge&logo=SOL&logoColor=white">
-![port](https://user-images.githubusercontent.com/63778599/153626127-7975ede7-098b-4a51-af50-9564f762ac31.png)
+    
+![port](https://user-images.githubusercontent.com/63778599/153626233-d161810e-c7e8-40d2-a4aa-202a68f2fd00.png)
