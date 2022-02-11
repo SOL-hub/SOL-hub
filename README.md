@@ -29,6 +29,7 @@ SOL PARK, Back-end Developer💪 🌱
 
 <br/><br/>
 💚 About SOL
-<br/>click this👉<img src="https://img.shields.io/badge/Portfolio-F24E1E?style=for-the-badge&logo=SOL&logoColor=white">
- ![port](https://user-images.githubusercontent.com/63778599/153618270-503be272-7a02-4422-a11c-14e5289d95f5.png)
+click this👉<img src="https://img.shields.io/badge/Portfolio-F24E1E?style=for-the-badge&logo=SOL&logoColor=white">
+    ![port](https://user-images.githubusercontent.com/63778599/153623922-60fc96e3-4eee-4181-a59e-9a671bd3fc9b.png)
+
  </div>
