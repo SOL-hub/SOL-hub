@@ -27,8 +27,11 @@ Hi, my name is SOL PARK, Back-end Developer💪 🌱
 ![SOL-hub's github stats](https://github-readme-stats.vercel.app/api?username=SOL-hub&show_icons=true)
 [![SOL-hub's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SOL-hub&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/SOL-hub)
 
-<br/><br/>
+<br/>
 💚 About SOL click this👉<img src="https://img.shields.io/badge/Portfolio-F24E1E?style=for-the-badge&logo=SOL&logoColor=white">
-    ![port](https://user-images.githubusercontent.com/63778599/153623922-60fc96e3-4eee-4181-a59e-9a671bd3fc9b.png)
+    <br/>
+    ![port](https://user-images.githubusercontent.com/63778599/153624227-4bc57dd8-db0e-4100-a39a-50ebff80d3ba.png)
+
+    
 
  </div>
